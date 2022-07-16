@@ -5,3 +5,9 @@ A simple application that will try to predict prices of various stocks based on 
 
 
 ## Gratitude  
+
+BIG THANKS TO STREAMLIT, PROPHET (FORMERLY FACEBOOK PROPHET), AND PLOTY!
+
+Prophet: https://facebook.github.io/prophet/
+Streamlit: https://streamlit.io/
+Ploty: https://plotly.com/python/
