@@ -1,0 +1,10 @@
+{
+    "tickers": [
+        "AAPL", "AMC", "AMD", "AMZN", "BND", "BRK-B",
+        "FRO", "GME", "GOOGL", "IVV", "JNJ", "O", "KO",
+        "LCID", "LDOS", "MCD", "META", "MSFT", "NDAQ",
+        "NFLX", "NOC","NVDA", "PFE", "QQQ", "RIVN",
+        "RTX", "SBUX", "SPMD", "SPY", "TMUS", "TSLA",
+        "VEA", "VICI", "VOO", "VTI", "VWO", "VZ", "WMT"
+    ]
+}
