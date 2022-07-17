@@ -1,5 +1,5 @@
 # Stock-Analysis
-A simple application that will try to predict prices of various stocks based on current data, trend, and pre-trained machine learning algorithm (FaceBook Prophet) and visualize it as a graph using Ploty.
+A simple application that will try to predict prices of various stocks based on current data, trend, and pre-trained machine learning algorithm (FaceBook Prophet) and visualize it as a graph using Plotly.
 
 ## Demo
 
@@ -11,7 +11,7 @@ GIF created with [EZGIF](https://ezgif.com/video-to-gif).
 
 ## Gratitude  
 
-BIG THANKS TO STREAMLIT, PROPHET (FORMERLY FACEBOOK PROPHET), AND PLOTY!
+BIG THANKS TO STREAMLIT, PROPHET (FORMERLY FACEBOOK PROPHET), AND PLOTLY!
 
 Prophet: https://facebook.github.io/prophet/
 
